@@ -1,0 +1,12 @@
+runtime/
+__pycache__/
+*.py[cod]
+.venv/
+work/
+dist/
+*.zip
+*.xlsx
+*.xlsm
+*.xls
+*.xlsb
+
